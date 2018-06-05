@@ -1373,7 +1373,7 @@ body {
   display: none;
 }
 .cid-qS1jPxyzFm {
-  background-image: url("../../../assets/images/thom-527-unsplash-2000x1325.jpg");
+  background-color: #ff3366;
 }
 .cid-qS8M33294E {
   padding-top: 90px;
@@ -3746,6 +3746,14 @@ body {
 }
 .cid-qU4mlFRsi3 .card-title {
   text-align: center;
+}
+.cid-qU6mrRoTjB {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #dbd4b8, #25aab2);
+}
+.cid-qU6mrRoTjB .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-qU4mnKtODp {
   padding-top: 90px;
