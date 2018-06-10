@@ -2019,6 +2019,13 @@ body {
 .cid-qS1jPylSKY .copyright > p {
   text-align: center;
 }
+#deltapiformeditor-1e pre {
+  white-space: pre-line;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #ffffff;
+  overflow: auto;
+}
 .cid-qSajWoeslV .navbar {
   background: #232323;
   transition: none;
